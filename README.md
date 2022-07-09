@@ -5,7 +5,7 @@
 
 
  ## Deploy on Heroku 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/NoobCoderAayu/FrwdTagRm)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/legendarmy12/tmst)
 
 
     
